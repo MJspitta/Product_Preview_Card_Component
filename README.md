@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screencapture.png)
+![](./images/screen-capture.png)
 
 ### Links
 
 - Solution URL: [Challenge Solution](https://your-solution-url.com)
-- Live Site URL: [Product Preview Card](https://your-live-site-url.com)
+- Live Site URL: [Product Preview Card](https://mjspitta.github.io/Product_Preview_Card_Component/)
 
 ## My process
 
@@ -40,6 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@MJspitta](https://www.frontendmentor.io/profile/MJspitta)
 - Twitter - [@MJspitta_](https://twitter.com/MJspitta_)
