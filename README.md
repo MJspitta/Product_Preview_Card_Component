@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Challenge Solution](https://your-solution-url.com)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-ckjZjB6KlY)
 - Live Site URL: [Product Preview Card](https://mjspitta.github.io/Product_Preview_Card_Component/)
 
 ## My process
